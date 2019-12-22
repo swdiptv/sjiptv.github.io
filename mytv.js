@@ -32,13 +32,3 @@ CIBNTEA电竞超清,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNTEADJ/1800/
 文化奇谈超清,http://baiducdnct.inter.ptqy.gitv.tv/tslive/c17_lb_wenhuaqitan_720p_t10/c17_lb_wenhuaqitan_720p_t10.m3u8
 温情影院超清,http://baiducdnct.inter.ptqy.gitv.tv/tslive/c19_lb_chenglong_720p_t10/c19_lb_chenglong_720p_t10.m3u8
 少儿_666,#genre#
-驚艷台HD,p2p://fccsovh.pvbox.live:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
-彩虹電影,p2p://fccsovh.pvbox.live:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
-彩虹e台,p2p://fccsovh.pvbox.live:18912/5c18f8ef000d41c9c073eec574332890.ts.ts
-彩虹k台,p2p://fccsovh.pvbox.live:18912/5c18f8f300074bdfc073fcde6e553705.ts.ts
-HOT星顏,p2p://fccsovh.pvbox.live:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
-松視1台,p2p://fccsovh.pvbox.live:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts
-松視2台,p2p://fccsovh.pvbox.live:18912/5c18f8f7000d865dc0740e1426765941.ts.ts
-松視3台,p2p://fccsovh.pvbox.live:18912/5c18f9020004cea3c07436da29307240.ts.ts
-潘多拉粉紅,p2p://fccsovh.pvbox.live:18912/5c18f90c000e8229c074606a15084f35.ts.ts
-潘多拉完美,p2p://fccsovh.pvbox.live:18912/5c18f905000c08fbc07444661e2e685e.ts.ts
