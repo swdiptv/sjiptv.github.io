@@ -695,7 +695,7 @@ CiTV HD,http://112.17.40.145/PLTV/88888888/224/3221226825/index.m3u8
 龙祥时代 高清,http://cloud-play.hhalloy.com/live/a5da9875c963d704ac5dd8f866869723.flv
 卫视电影 高清,http://cloud-play.hhalloy.com/live/4499fb1dcef8c7a9f64276bf71bfc5b4.flv
 HBO-HD 高清,http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.flv#http://218.202.220.2:5000/nn_live.ts?id=HBO
-东方电影 高清,http://sousou2.top/dl/migu.php?id=623674834
+
 珠江电影,http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=7&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=7&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 凤凰电影 高清,http://218.202.220.2:5000/nn_live.m3u8?id=NEWSASIA#http://iptv.pdsu.edu.cn/hls/fhdy.m3u8
 星卫电影 高清,http://cloud-play.hhalloy.com/live/41e05f3849c21412aa8b347f18adb3f6.flv
@@ -793,40 +793,12 @@ CIBN艺术院线,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNTEADJ/1800/vCI
 中央电视台中塔东,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
 中央电视台中塔北,https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
 少儿频道,#genre#
-boomerang卡通,http://cloud-play.hhalloy.com/live/65796ce70deacc164cf2eb854ad43994.flv
-momo亲子台,http://cloud-play.hhalloy.com/live/0c795e6e7f8e067dd4110a57375a71b9.flv
+
 广场舞大全,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c17_lb_guangchangwudaquan_720p_t10/c17_lb_guangchangwudaquan_720p_t10.m3u8
-迪士尼卡通,http://cloud-play.hhalloy.com/live/198038b134ad459d9cc251038c74685a.flv
-梦工厂动画,http://cloud-play.hhalloy.com/live/aae9c139f056e6c003448ba1e4908ee3.flv
-ifun动漫台,http://cloud-play.hhalloy.com/live/9cd9d87c4ccbf7f28284990a1c3d4569.flv
-曼迪日本台,http://cloud-play.hhalloy.com/live/d9445086fd2dd474087674f638f2a8ed.flv
-baby tv,http://cloud-play.hhalloy.com/live/d7ede3e748413a7ad065d29dbe542149.flv
-my kids,http://cloud-play.hhalloy.com/live/9bb01fa9902e14cd5811f5474283171b.flv
-nick卡通,http://cloud-play.hhalloy.com/live/a81b6e417028b6d72ed3e6ee7c42619b.flv
-东森幼幼,http://cloud-play.hhalloy.com/live/0c0a03db510687f73c455afcc220386b.flv
-龙华动画,http://cloud-play.hhalloy.com/live/4a3c4fbd39ddf82979cf3ecf3cd942c8.flv
-animax hd,http://cloud-play.hhalloy.com/live/13b6c6ecbb388c105fd9d98338162abb.flv
-itv choice,http://cloud-play.hhalloy.com/live/efd423af0e64fd82c1cc29e909eb4303.flv
-卡酷少儿,http://223.110.241.139:6610/gitv/live1/G_KAKU/G_KAKU/
-卡酷少儿,http://cloud-play.hhalloy.com/live/8fa63f69fe90ce0597aa6d4b7c262810.flv
-卡酷少儿,http://cloud-play.hhalloy.com/live/6bbfbe0fb0dc5ce3f8db00d8fae9ae5c.flv
-卡酷少儿,http://pili-live-hdl.qhmywl.com/dsdtv/6bbfbe0fb0dc5ce3f8db00d8fae9ae5c.flv
-金鹰卡通,http://223.110.241.139:6610/gitv/live1/G_JINYING/G_JINYING/
 金鹰卡通,http://112.17.40.140/PLTV/88888888/224/3221226190/index.m3u8
 金鹰卡通,http://111.40.205.87/PLTV/88888888/224/3221225653/index.m3u8
 金鹰卡通,http://121.31.30.90:8085/ysten-business/live/jinyingkaton/1.m3u8
-嘉佳卡通,http://223.110.241.139:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
 嘉佳卡通,http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
-NICK 卡通,http://pili-live-hdl.qhmywl.com/dsdtv/a81b6e417028b6d72ed3e6ee7c42619b.flv
-I-FUN动漫台,http://pili-live-hdl.qhmywl.com:80/dsdtv/9cd9d87c4ccbf7f28284990a1c3d4569.flv
-MOMO亲子台,http://pili-live-hdl.qhmywl.com/dsdtv/0c795e6e7f8e067dd4110a57375a71b9.flv
-iFun1,http://pili-live-hdl.qhmywl.com/dsdtv/9cd9d87c4ccbf7f28284990a1c3d4569.flv
-曼迪日本,http://pili-live-hdl.qhmywl.com/dsdtv/d9445086fd2dd474087674f638f2a8ed.flv
-BabyTV,http://pili-live-hdl.qhmywl.com/dsdtv/d7ede3e748413a7ad065d29dbe542149.flv
-BabyFirst,http://pili-live-hdl.qhmywl.com/dsdtv/efd423af0e64fd82c1cc29e909eb4303.flv
-My-kids,http://pili-live-hdl.qhmywl.com/dsdtv/9bb01fa9902e14cd5811f5474283171b.flv
-东森幼幼台,http://pili-live-hdl.qhmywl.com/dsdtv/0c0a03db510687f73c455afcc220386b.flv
-龙华卡通台,http://pili-live-hdl.qhmywl.com/dsdtv/4a3c4fbd39ddf82979cf3ecf3cd942c8.flv
 
 西施频道,#genre#
 1,https://www.800-cdn.com/20191104/E1HxL2k9/index.m3u8
